@@ -2,6 +2,9 @@
 
 An HTML and CSS-only template for meetup thumbnails, meant to be used for YouTube video thumbnails and event promotion.
 
+- Based on [`reactjs-dallas/thumbnail-template`](http://github.com/reactjs-dallas/thumbnail-template) from [Ben Myers](https://github.com/BenDMyers) and [Mike Mathew](https://github.com/m2mathew).
+- Built on stream for [AJC and the Web Devs Episode 1, Social Cards with Ben Myers](https://www.youtube.com/watch?v=zSnKSlZLY-A).
+
 ## How to Make a Thumbnail
 
 1. Update the HTML with the values you want this thumbnail to have. This will include:
@@ -18,4 +21,9 @@ An HTML and CSS-only template for meetup thumbnails, meant to be used for YouTub
 
 ### Example Image
 
-!['Example of thumbnail image'](https://res.cloudinary.com/reactjs-dallas/image/upload/v1634259055/talk_thumbnail_preview_ssi2y1.png 'Example of thumbnail image')
+<p align="center">
+  <img
+	  src="https://res.cloudinary.com/reactjs-dallas/image/upload/v1634259055/talk_thumbnail_preview_ssi2y1.png"
+		alt="Example of thumbnail image"
+	>
+</p>
